@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>Learn ESP32 Blog</title>
+        <link>https://your-docusaurus-test-site.com/blog</link>
+        <description>Learn ESP32 Blog</description>
+        <lastBuildDate>Tue, 21 Feb 2023 09:13:01 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <item>
+            <title><![CDATA[Hello]]></title>
+            <link>https://your-docusaurus-test-site.com/blog/hello</link>
+            <guid>https://your-docusaurus-test-site.com/blog/hello</guid>
+            <pubDate>Tue, 21 Feb 2023 09:13:01 GMT</pubDate>
+            <category>hello</category>
+        </item>
+    </channel>
+</rss>
