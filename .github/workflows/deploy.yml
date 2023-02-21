@@ -13,14 +13,17 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
+
+      - name: Navigate to docs folder
+        run: cd docs 
+
       - uses: actions/setup-node@v3
         with:
           node-version: 18
           cache: yarn
           #  navigation docs folder
 
-      - name: Navigate to docs folder
-        run: cd docs      
+     
       
       - name: Install dependencies
         run: yarn install --frozen-lockfile
