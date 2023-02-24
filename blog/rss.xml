@@ -4,7 +4,7 @@
         <title>Learn ESP32 Blog</title>
         <link>https://your-docusaurus-test-site.com/learn-esp32/blog</link>
         <description>Learn ESP32 Blog</description>
-        <lastBuildDate>Tue, 21 Feb 2023 09:16:09 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Feb 2023 10:23:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>en</language>
@@ -12,7 +12,7 @@
             <title><![CDATA[Hello]]></title>
             <link>https://your-docusaurus-test-site.com/learn-esp32/blog/hello</link>
             <guid>https://your-docusaurus-test-site.com/learn-esp32/blog/hello</guid>
-            <pubDate>Tue, 21 Feb 2023 09:16:09 GMT</pubDate>
+            <pubDate>Fri, 24 Feb 2023 10:23:09 GMT</pubDate>
             <category>hello</category>
         </item>
     </channel>

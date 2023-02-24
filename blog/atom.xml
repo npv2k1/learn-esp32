@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://your-docusaurus-test-site.com/learn-esp32/blog</id>
     <title>Learn ESP32 Blog</title>
-    <updated>2023-02-21T09:16:09.000Z</updated>
+    <updated>2023-02-24T10:23:09.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://your-docusaurus-test-site.com/learn-esp32/blog"/>
     <subtitle>Learn ESP32 Blog</subtitle>
@@ -11,7 +11,7 @@
         <title type="html"><![CDATA[Hello]]></title>
         <id>https://your-docusaurus-test-site.com/learn-esp32/blog/hello</id>
         <link href="https://your-docusaurus-test-site.com/learn-esp32/blog/hello"/>
-        <updated>2023-02-21T09:16:09.000Z</updated>
+        <updated>2023-02-24T10:23:09.000Z</updated>
         <author>
             <name>Phạm Văn Nguyên</name>
             <uri>https://github.com/npv2k1</uri>
